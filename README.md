@@ -11,5 +11,5 @@ The nonprofit World IA Day provides the foundation for learning about informatio
 We host World IA Day, the one day a year the community gets together for a global conference, curated and organized by volunteers around the world. We have plans to conduct collaborative research and mentoring projects to address change in culture and society.
 
 ## Project team
-Ghada Kandil, as project manager
-Grace Lau
+- Ghada Kandil, as project manager
+- Grace Lau
